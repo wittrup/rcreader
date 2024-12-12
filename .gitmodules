@@ -1,0 +1,3 @@
+[submodule "serproxy"]
+	path = serproxy
+	url = https://github.com/cetola/serproxy.git
